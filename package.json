@@ -1,0 +1,17 @@
+{
+  "name": "json-server-api-angular-coderhouse",
+  "version": "1.0.0",
+  "description": "API para consumir en el proyecto final del curso de Angular de Coderhouse '23",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.4"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
